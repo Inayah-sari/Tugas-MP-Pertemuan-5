@@ -1,4 +1,4 @@
 # Tugas-MP-Pertemuan-5
 
 1. parsing.dart
-   ![image](https://github.com/user-attachments/assets/4fff1783-93c6-45aa-a4b9-335d796a6fc6)
+   <img width="958" alt="parsingnew" src="https://github.com/user-attachments/assets/7fec76a5-74f7-4366-a0a3-0bbd9f306b22" />
